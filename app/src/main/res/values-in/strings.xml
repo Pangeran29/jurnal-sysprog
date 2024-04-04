@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Jurnal Sysprog</string>
+    <string name="picture">Gambar %1$s</string>
+    <string name="update_journal_top_title">Mulai Jurnal</string>
+    <string name="journal_chapter">Bab</string>
+    <string name="journal_content">Jurnal (banyak baris)</string>
+    <string name="input_invalid">Tidak diizinkan kosong</string>
+    <string name="add_journal">Tambah jurnal</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="understand_topic">Apakah kamu memahami topik nya?</string>
 </resources>
