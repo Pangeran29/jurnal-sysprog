@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "org.d3if3030.jurnal_sysprog"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "org.d3if3030.jurnal_sysprog"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
